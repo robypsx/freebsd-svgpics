@@ -1,3 +1,3 @@
 # bsdpics
-svg icons. Free to use, no need to give credit. 
+svg icons. Free to use.
 ![alt text](https://github.com/robypsx/freebsd-svgpics/blob/main/img.png?raw=true)
